@@ -1,8 +1,5 @@
 # Targeted Web Traffic — What We Do & How We Help (BBB A+ Rated)
-
-> **About this guide:** A deep, plain-English overview of our services so any reader—founder, marketer, or small-business owner—can quickly understand **what we do, how we do it, and what to expect**. Share it, fork it, or use it as your internal playbook.
-
----
+<img width="2240" height="1260" alt="Image" src="https://github.com/user-attachments/assets/2937c14b-dd01-4dc0-8e67-861ffb8607e1" />
 
 ## At a Glance
 
@@ -64,8 +61,9 @@ We’re a growth-focused team helping businesses **get found, earn trust, and co
 ---
 
 ## Local SEO (U.S. Cities, States, and Service Areas)
+<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/20be4f8d-19ac-4ea7-9189-3648de1f4e74" />
 
-Local SEO is about **owning your neighborhood** in Google and Maps:
+#### Local SEO is about **owning your neighborhood** in Google and Maps:
 
 * [**Google Business Profile (GBP)**](https://maps.app.goo.gl/FqChepbg9Tkf71e49): We optimize name, categories, services, business description, hours, photos, Q&A, and weekly posts.
 * **NAP Consistency:** Name, address, phone, and website alignment across directories (Yelp, Apple Maps, BBB, industry citations).
@@ -92,8 +90,9 @@ Selling beyond the U.S.? We help you expand without cannibalizing your core site
 ---
 
 ## SEO Content Writing (Pages That Rank *and* Convert)
+<img width="400" height="600" alt="Image" src="https://github.com/user-attachments/assets/978d7dac-3aea-4e0e-a076-bb9df9711c47" />
 
-Our approach blends **search intent** and **sales intent**:
+#### Our approach blends **search intent** and **sales intent**:
 
 * **Keyword → Outline → Draft → Review** (with your voice and brand).
 * **Search intent mapping:** Informational guides for discovery; comparison and pricing content for high intent.
@@ -106,9 +105,10 @@ Our approach blends **search intent** and **sales intent**:
 ---
 
 ## Web Design & Redesign (Modern, Fast, SEO-Friendly)
+<img width="800" height="500" alt="Image" src="https://github.com/user-attachments/assets/edd1039b-3cc6-48df-80c3-d7de1f6622ba" />
 
-Design should **look great** and **sell well**:
 
+##### Design should **look great** and **sell well**:
 * **Platforms:** We work with many, but **WordPress** is our default for SEO flexibility.
 * **Performance:** Sub-3s mobile load, optimized images, clean theme, minimal plugins.
 * **Clarity:** A single primary CTA per page section.
@@ -120,8 +120,9 @@ Design should **look great** and **sell well**:
 ---
 
 ## Website Traffic Services
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/1df0277d-327f-4d9f-94a3-7536a9b2fb37" />
 
-We deliver **100% real human visitors** through brand-safe ad placements, publisher inventory, and curated referral sources. Choose your lane (or we’ll recommend one):
+#### We deliver **100% real human visitors** through brand-safe ad placements, publisher inventory, and curated referral sources. Choose your lane (or we’ll recommend one):
 
 ### [Targeted Website Traffic (Any Country, Any State)](https://targetedwebtraffic.com/product-category/website-traffic/)
 
